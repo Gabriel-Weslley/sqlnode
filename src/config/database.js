@@ -1,8 +1,8 @@
 module.exports = {
   dialect: 'postgres',
   host: 'localhost',
-  username: 'pgadmin',
-  password: 'pgadmin',
+  username: 'postgres',
+  password: 'root',
   database: 'sqlnode',
   define: {
     timestamps: true,
